@@ -1,0 +1,139 @@
+2020-10-16 17:08:44,016 CommonFun_Web.py[line:28] INFO open website
+2020-10-16 17:08:50,938 CommonFun_Web.py[line:148] INFO Quit the browser
+2020-10-19 09:56:27,263 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 09:56:32,140 CommonFun_Web.py[line:192] INFO clear  element
+2020-10-19 09:57:21,000 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 09:57:25,498 CommonFun_Web.py[line:192] INFO clear  element
+2020-10-19 09:57:45,045 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 09:57:49,675 CommonFun_Web.py[line:192] INFO clear  element
+2020-10-19 10:34:37,923 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:36:26,427 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:36:31,468 CommonFun_Web.py[line:189] INFO clear  element
+2020-10-19 10:36:31,697 CommonFun_Web.py[line:205] INFO type java  in element
+2020-10-19 10:36:34,337 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 10:36:52,474 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:36:57,356 CommonFun_Web.py[line:189] INFO clear  element
+2020-10-19 10:36:57,526 CommonFun_Web.py[line:205] INFO type java  in element
+2020-10-19 10:36:59,912 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 10:43:56,743 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:44:03,366 CommonFun_Web.py[line:94] INFO The windows’ width is 945：,height is 1020
+2020-10-19 10:44:06,416 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 10:44:48,387 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:44:48,387 CommonFun_Web.py[line:172] INFO get screenshot as fail to open browser
+2020-10-19 10:44:48,387 CommonFun_Web.py[line:175] ERROR Fail to take screenshot with 'CommonFun_Web' object has no attribute 'driver'
+2020-10-19 10:44:48,388 CommonFun_Web.py[line:53] ERROR Fail to open website with <class 'NameError'>
+2020-10-19 10:45:30,659 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:48:18,447 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:52:22,752 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:53:10,242 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:53:36,845 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:54:38,119 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:56:17,686 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:56:24,444 CommonFun_Web.py[line:102] ERROR Fail to set windows size as 888 of width and 888 of height with not enough arguments for format string
+2020-10-19 10:56:26,752 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 10:58:22,444 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 10:58:29,127 CommonFun_Web.py[line:100] INFO Set windows size is 888 of width and 888 of height
+2020-10-19 10:58:31,456 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 11:04:37,669 CommonFun_Web.py[line:27] INFO open website
+2020-10-19 11:04:44,306 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 11:04:44,313 CommonFun_Web.py[line:94] INFO The windows’ width is 1936：,height is 1056
+2020-10-19 11:04:46,627 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 11:11:59,601 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 11:12:06,457 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 11:12:06,489 CommonFun_Web.py[line:189] INFO clear  element
+2020-10-19 11:12:06,677 CommonFun_Web.py[line:205] INFO type selenium  in element
+2020-10-19 11:12:06,798 CommonFun_Web.py[line:182] INFO click  element
+2020-10-19 11:12:06,822 CommonFun_Web.py[line:123] INFO Click back on current page.
+2020-10-19 11:12:06,836 CommonFun_Web.py[line:115] INFO Click forward on current page.
+2020-10-19 11:12:06,842 CommonFun_Web.py[line:94] INFO The windows’ width is 1936：,height is 1056
+2020-10-19 11:12:09,265 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 11:39:39,541 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 11:39:46,411 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 11:39:46,442 CommonFun_Web.py[line:189] INFO clear  element
+2020-10-19 11:39:46,610 CommonFun_Web.py[line:205] INFO type selenium  in element
+2020-10-19 11:47:59,449 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 11:48:06,508 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 11:48:06,540 CommonFun_Web.py[line:189] INFO Clear  element
+2020-10-19 11:48:06,733 CommonFun_Web.py[line:205] INFO Type selenium  in element
+2020-10-19 11:48:56,980 CommonFun_Web.py[line:184] ERROR Fail to click the element （Message: 
+）
+2020-10-19 11:48:56,980 CommonFun_Web.py[line:172] INFO get screenshot as Fail to click the element
+2020-10-19 11:48:57,502 CommonFun_Web.py[line:123] INFO Click back on current page.
+2020-10-19 11:48:57,850 CommonFun_Web.py[line:115] INFO Click forward on current page.
+2020-10-19 11:48:57,861 CommonFun_Web.py[line:94] INFO The windows’ width is 1936：,height is 1056
+2020-10-19 11:49:00,290 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 11:50:53,403 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 11:51:00,177 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 11:51:00,211 CommonFun_Web.py[line:189] INFO Clear  element
+2020-10-19 11:51:00,486 CommonFun_Web.py[line:205] INFO Type selenium  in element
+2020-10-19 11:51:10,810 CommonFun_Web.py[line:184] ERROR Fail to click the element （Message: 
+）
+2020-10-19 11:51:10,810 CommonFun_Web.py[line:172] INFO get screenshot as Fail to click the element
+2020-10-19 11:51:11,243 CommonFun_Web.py[line:123] INFO Click back on current page.
+2020-10-19 11:51:11,878 CommonFun_Web.py[line:115] INFO Click forward on current page.
+2020-10-19 11:51:11,909 CommonFun_Web.py[line:94] INFO The windows’ width is 1936：,height is 1056
+2020-10-19 11:51:14,455 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 11:53:42,678 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 11:53:49,372 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 11:53:49,406 CommonFun_Web.py[line:189] INFO Clear  element
+2020-10-19 11:53:49,607 CommonFun_Web.py[line:205] INFO Type selenium  in element
+2020-10-19 11:53:59,909 CommonFun_Web.py[line:184] ERROR Fail to click the element （Message: 
+）
+2020-10-19 11:53:59,909 CommonFun_Web.py[line:172] INFO get screenshot as Fail to click the element
+2020-10-19 11:54:00,348 CommonFun_Web.py[line:123] INFO Click back on current page.
+2020-10-19 11:54:00,978 CommonFun_Web.py[line:115] INFO Click forward on current page.
+2020-10-19 11:54:01,004 CommonFun_Web.py[line:94] INFO The windows’ width is 1936：,height is 1056
+2020-10-19 11:54:03,472 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 15:32:34,360 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 15:32:41,206 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 15:35:09,480 CommonFun_Web.py[line:27] INFO Open website
+2020-10-19 15:35:16,121 CommonFun_Web.py[line:107] INFO Set max window
+2020-10-19 15:35:16,132 CommonFun_Web.py[line:190] INFO Clear %s element
+2020-10-19 15:35:16,303 CommonFun_Web.py[line:206] INFO Type selenium  in element
+2020-10-19 15:35:26,712 CommonFun_Web.py[line:185] ERROR Fail to click the element (Message: 
+)
+2020-10-19 15:35:26,712 CommonFun_Web.py[line:173] INFO get screenshot as Fail to click the element
+2020-10-19 15:35:27,233 CommonFun_Web.py[line:123] INFO Click back on current page.
+2020-10-19 15:35:27,871 CommonFun_Web.py[line:115] INFO Click forward on current page.
+2020-10-19 15:35:27,885 CommonFun_Web.py[line:94] INFO The windows’ width is 1936：,height is 1056
+2020-10-19 15:35:30,286 CommonFun_Web.py[line:147] INFO Quit the browser
+2020-10-19 16:37:13,067 CommonFun_Web.py[line:32] INFO Open website
+2020-10-19 16:37:17,760 CommonFun_Web.py[line:314] INFO The website title is: 百度一下，你就知道
+2020-10-19 16:38:29,281 CommonFun_Web.py[line:32] INFO Open website
+2020-10-19 16:38:33,745 CommonFun_Web.py[line:322] INFO The current url is: https://www.baidu.com/
+2020-10-19 16:48:42,431 CommonFun_Web.py[line:33] INFO Open website
+2020-10-19 16:48:46,977 CommonFun_Web.py[line:196] INFO Clear %s element
+2020-10-19 16:48:47,162 CommonFun_Web.py[line:212] INFO Type selenium  in the element
+2020-10-19 16:48:57,552 CommonFun_Web.py[line:191] ERROR Fail to click the element
+2020-10-19 16:48:57,552 CommonFun_Web.py[line:179] INFO get screenshot as Fail to click the element
+2020-10-19 16:51:57,743 CommonFun_Web.py[line:33] INFO Open website
+2020-10-19 16:52:02,282 CommonFun_Web.py[line:196] INFO Clear the element
+2020-10-19 16:52:02,479 CommonFun_Web.py[line:212] INFO Type selenium  in the element
+2020-10-19 16:52:12,859 CommonFun_Web.py[line:191] ERROR Fail to click the element
+2020-10-19 16:52:12,860 CommonFun_Web.py[line:179] INFO get screenshot as Fail to click the element
+2020-10-19 16:55:16,421 CommonFun_Web.py[line:34] INFO Open website
+2020-10-19 16:55:21,159 CommonFun_Web.py[line:197] INFO Clear the element
+2020-10-19 16:55:21,401 CommonFun_Web.py[line:213] INFO Type selenium  in the element
+2020-10-19 16:55:31,757 CommonFun_Web.py[line:192] ERROR Fail to click the element
+2020-10-19 16:55:31,757 CommonFun_Web.py[line:180] INFO get screenshot as Fail to click the element
+2020-10-19 17:00:39,238 CommonFun_Web.py[line:34] INFO Open website
+2020-10-19 17:00:43,778 CommonFun_Web.py[line:216] ERROR Fail to type selenium element
+2020-10-19 17:00:43,779 CommonFun_Web.py[line:180] INFO get screenshot as Fail to type selenium element
+2020-10-19 17:00:44,450 CommonFun_Web.py[line:190] INFO Click the element
+2020-10-19 17:03:41,982 CommonFun_Web.py[line:34] INFO Open website
+2020-10-19 17:03:46,556 CommonFun_Web.py[line:216] ERROR Fail to type 'selenium' in element
+2020-10-19 17:03:46,556 CommonFun_Web.py[line:180] INFO get screenshot as Fail to type 'selenium' element
+2020-10-19 17:03:47,222 CommonFun_Web.py[line:190] INFO Click the element
+2020-10-19 17:04:12,511 CommonFun_Web.py[line:34] INFO Open website
+2020-10-19 17:04:17,017 CommonFun_Web.py[line:216] ERROR Fail to type 'selenium' in element
+2020-10-19 17:04:17,017 CommonFun_Web.py[line:180] INFO get screenshot as Fail to type 'selenium' element
+2020-10-19 17:04:17,683 CommonFun_Web.py[line:190] INFO Click the element
+2020-10-19 17:04:32,853 CommonFun_Web.py[line:34] INFO Open website
+2020-10-19 17:04:37,486 CommonFun_Web.py[line:197] INFO Clear the element
+2020-10-19 17:04:37,734 CommonFun_Web.py[line:213] INFO Type 'selenium'  in the element
+2020-10-19 17:04:37,816 CommonFun_Web.py[line:190] INFO Click the element
+2020-10-19 17:06:59,078 CommonFun_Web.py[line:34] INFO Open website
+2020-10-19 17:07:03,787 CommonFun_Web.py[line:190] INFO Click the element
+2020-10-19 17:07:03,788 CommonFun_Web.py[line:197] INFO Clear the element
+2020-10-19 17:07:03,978 CommonFun_Web.py[line:214] INFO Type 'selenium'  in the element
+2020-10-19 17:07:04,080 CommonFun_Web.py[line:190] INFO Click the element

@@ -1,0 +1,20 @@
+platformName: Android
+#模拟器
+platformVersion: 9
+deviceName: GWY0217111006211
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+appname: Renting_v1.0_test.apk
+app: C:\Users\YGan\Desktop\360_rent_APK_test\app\Renting_v1.0_test.apk
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+
+appPackage: com.lansent.renting
+appActivity: com.lansent.renting.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723

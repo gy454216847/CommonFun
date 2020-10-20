@@ -1,0 +1,11 @@
+smtpserver: smtp.exmail.qq.com
+user: ganyu@lookdoor.com
+password: Gy329329
+
+sender: ganyu@lookdoor.com
+receives: ganyu@lookdoor.com
+
+body_text: 查看自动化测试请下载附件
+subject: 360租房APK自动化测试报告
+
+filename: 自动化测试报告
